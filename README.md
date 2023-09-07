@@ -13,6 +13,7 @@ The app has a toggle button to switch to dark mode
 - [License](#License)
 - [Installation](#Installation)
 - [Usage](#Usage)
+- [link](#Link)
 - [Screenshots](#Screenshots)
 - [Test](#Test) 
 - [Questions](#Questions)
@@ -30,6 +31,10 @@ To install application locally, follow these steps:
 
 ## Usage
 * Run `npm start` to start the server and launch the application.
+
+## Link
+
+Deployed page link : https://swathivinod19.github.io/virtual-notes/
 
 ## Screenshots
 ![image](https://github.com/SwathiVinod19/Notetaker-app/assets/129353324/b6d4d2a9-4a1f-4025-a0df-173620b8c3f3)
