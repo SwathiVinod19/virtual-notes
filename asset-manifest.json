@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/virtual-notes/static/css/main.09556ce1.css",
+    "main.js": "/virtual-notes/static/js/main.cb4fc8c1.js",
+    "index.html": "/virtual-notes/index.html",
+    "main.09556ce1.css.map": "/virtual-notes/static/css/main.09556ce1.css.map",
+    "main.cb4fc8c1.js.map": "/virtual-notes/static/js/main.cb4fc8c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09556ce1.css",
+    "static/js/main.cb4fc8c1.js"
+  ]
+}
